@@ -4,6 +4,9 @@ several hundred meters, who uses it to open the doors and start the engine.  The
 targets to harvest the data, but it's possible to use antennas to extend the attack. Any vehicle alarms are rendered redundant, 
 as the car trusts the signal.
 
+How to install radio on rasberry pi 
+https://wiki.gnuradio.org/index.php/InstallingGRFromSource_on_Raspberry_Pi
+
 Instructions for setup and installing https://airspy.com/quickstart/ SDR Sharp
 
 https://www.planetsubaru.com/keyless-access-and-push-button-start.htm
