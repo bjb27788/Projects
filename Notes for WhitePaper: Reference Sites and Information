@@ -1,4 +1,8 @@
-The attack involves two hackers, whose radios collect the signals sent between the fob and the car to unlock doors and start engines. 
+Privacy, Security, and Convenience
+There is no such combination. 
+In the modern era the automotive industry has attempted to lure in new customers with an increasingly technology dependent vehicle. This can be seen in the additional safety features including automatic emergency braking, reverse driving cameras, HUD diplays that connect to your smartphones and can play music once paired, lane assist where the car is automatically nudged back into the lane of travel, in the most extreme form the self driving car, and our focus lies on keyless entry and keyless ignition. In an attempt to make driving safer and more convenient, there has been a major avenue of attack, that leaves almost all new cars vulnerable to being stolen or at least broken into without the owner or key being required.
+
+The concept in its simplest form could be executed with two actors. The first actor would collect the radio signals being transmitted from the key itself, or recording the signal when the unlock or lock command is used.  , whose radios collect the signals sent between the fob and the car to unlock doors and start engines. 
 One hacker carries a radio that collects signals from a target vehicle's fob. This is then passed to an accomplice, as as far away as 
 several hundred meters, who uses it to open the doors and start the engine.  They each need to be several meters away from their respective 
 targets to harvest the data, but it's possible to use antennas to extend the attack. Any vehicle alarms are rendered redundant, 
@@ -19,7 +23,7 @@ https://duckduckgo.com/?q=how+to+clone+a+kes+car+key&ia=web
 
 https://www.youtube.com/watch?v=Z0N7WOzef9A
 
-https://syssec.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/spot/332.pdf (white paper Swiss)
+(1) https://syssec.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/spot/332.pdf (white paper Swiss)
 
 https://www.raspberrypi.org/%20downloads/
 
