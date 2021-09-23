@@ -5,8 +5,10 @@ In the modern era the automotive industry has attempted to lure in new customers
 The concept in its simplest form could be executed with two actors. The first actor would collect the radio signals being transmitted from the key itself, or recording the signal when the unlock or lock command is used.  , whose radios collect the signals sent between the fob and the car to unlock doors and start engines. 
 One hacker carries a radio that collects signals from a target vehicle's fob. This is then passed to an accomplice, as as far away as 
 several hundred meters, who uses it to open the doors and start the engine.  They each need to be several meters away from their respective 
-targets to harvest the data, but it's possible to use antennas to extend the attack. Any vehicle alarms are rendered redundant, 
-as the car trusts the signal.
+targets to harvest the data, but it's possible to use antennas to extend the attack. Any vehicle alarms are rendered redundant, as the car trusts the signal.
+
+Equipment:
+In order to build our functioning relay we started with a Raspberry Pi 3b+ with a 32 GB SD card, the operating system we installed was Raspian which came preloaded on the 3b+. For the antenna and coax relay we went with the NESDR SMArTee XTR Bundle - Premium RTL-SDR w/Extended Tuning Range, Aluminum Enclosure, Bias Tee, 0.5PPM TCXO, SMA Input. In order to relay the signal we stripped an ethernet cable in order to have a wire act as the antenna. For the recording and identification of the signal we utilized the free open source software  "HDSDR is a freeware Software Defined Radio (SDR) program for Microsoft Windows 2000/XP/Vista/7/8/8.1/10" (hdsdr.de)
 
 How to install radio on rasberry pi 
 https://wiki.gnuradio.org/index.php/InstallingGRFromSource_on_Raspberry_Pi
